@@ -1,0 +1,372 @@
+.logo img{
+    height: 90px;
+        width: auto;
+       top: 10px;
+       left: 5px;
+       transform: translate(10%,10%);
+}
+.main ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 20px;
+}
+.main ul li {
+    display: inline-block;
+   
+}
+.main ul li a{
+    text-decoration: none;
+    color:black;
+    padding: 5px 20px;
+    border:1px solid transparent;
+}
+.main ul li a:hover{
+    background-color: black;
+    color:white;
+}
+.main ul li.active a{
+  background-color: black;
+  color:white;
+
+}
+
+.articlebtn ul{
+    position: absolute;
+    top: 90px;
+    left: 235px;
+
+    list-style-type: none;
+    margin-top: 20px;
+}
+.articlebtn ul li {
+    display: inline-block;
+   
+}
+.articlebtn ul li a{
+    text-decoration: none;
+    color:black;
+    padding: 5px 20px;
+    border:1px solid transparent;
+}
+.articlebtn ul li a:hover{
+    background-color: black;
+    color:white;
+}
+.articlebtn ul li.active a{
+  background-color: black;
+  color:white;
+
+}
+
+.content {
+    background-color:white;
+    height:4810px;
+    width: 780px;
+   position: absolute;
+   top: 20%;
+   left: 20%;
+  
+}
+.content h1{
+    color:black;
+    font-family:  Perpetua;
+}
+.content h2{
+    color:black;
+    font-family: Sylfaen;
+}
+.content p{
+    color:black;
+    font-family: Perpetua;
+    font-size: 30px;
+}
+.content img{
+    height: 300px;
+    width: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.container p{
+   
+    text-align: center;
+    font-family: Times New Roman;
+    font-size: 15px;
+}
+.ladakhspace{
+    height: 30px;
+    background-color: skyblue;
+}
+.ladakhspace span{
+    color: white;
+    position: absolute;
+    left: 45%;
+    top: 41%;
+    transform: translate(-50%,-9%);
+}
+.kargilspace{
+    height: 30px;
+    background-color: skyblue;
+}
+.kargilspace span{
+    color: white;
+    position:absolute;
+    left: 45%;
+    top: 75%;
+    transform: translate(-45%,-24%);
+
+}
+
+
+
+
+.footer{
+    top:4990px;
+    
+    position: absolute;
+}
+.footer img{
+    height: 100px;
+    width: 1340px;
+}
+.down{
+    background-color: black;
+    height: 300px;
+    width: 1340px;
+    top: 778.5%;
+    position: relative;
+    
+}
+
+.tourism a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+.tourism a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.culture a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 10%;
+    left: 27%;
+}
+.culture a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.florafauna a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 10%;
+    left: 43%;
+}
+.florafauna a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.costumes a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 10%;
+    left: 58%;
+}
+.costumes a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.history a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 10%;
+    left: 76%;
+}
+.history a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.monasteries a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+.monasteries a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.education a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 30%;
+    left: 27%;
+}
+.education a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.agriculture a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 30%;
+    left: 43%;
+}
+.agriculture a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.religion a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 30%;
+    left: 58%;
+}
+.religion a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.padum a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 30%;
+    left: 76%;
+}
+.padum a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.mountain a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+.mountain a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.geograph a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 50%;
+    left: 27%;
+}
+.geograph a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.architecture a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 50%;
+    left: 43%;
+}
+.architecture a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.demographics a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 50%;
+    left: 58%;
+}
+.architecture a:hover{
+    background-color: green;
+    color:white;
+    
+}
+.economy a{
+    
+    text-decoration: none;
+    color:gold;
+    padding: 10px 25px;
+    border:1px solid transparent;
+    position: absolute;
+    top: 50%;
+    left: 76%;
+}
+.economy a:hover{
+    background-color: green;
+    color:white;
+    
+}
+
+
+
+
+
+
